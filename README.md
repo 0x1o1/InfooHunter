@@ -3,6 +3,6 @@ A tool designed in Python to specifically assist you in website scanning and pro
 
 Usage :
 
-in Windows : py -3 Infoscript.py "google.com"  Or python3 Infoscript.py "google.com"
+in Windows : py -3 Infoscript.py "google.com"   or   python3 Infoscript.py "google.com"
 
 in Linux & macOS : python3 ./Infoscript.py "google.com"
